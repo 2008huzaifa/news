@@ -1,0 +1,13 @@
+#Search{
+border-radius: 10px;
+border: 4px red groove;
+}
+#btn{
+
+    border-radius: 10px;
+    border: 4px red groove
+
+}
+::placeholder {
+    text-align: center;
+}
